@@ -1,5 +1,5 @@
 _repo: The-Story-of-a-Needle_65365
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Petherick, Rosa C.
@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '53304'
     url: http://www.gutenberg.org/2009/agents/53304
     wikipedia: https://en.wikipedia.org/wiki/Rosa_C._Petherick
+covers:
+- cover_type: archival
+  image_path: 65365-h/images/cover.jpg
 creator:
   author:
     agent_name: A. L. O. E.
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31385
     wikipedia: https://en.wikipedia.org/wiki/Charlotte_Maria_Tucker
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65365#The-Story-of-a-Needle
 gutenberg_issued: '2021-05-17'
 gutenberg_type: Text
 identifiers:
